@@ -5,6 +5,6 @@ tags={
 	"Graphics"
 }
 name="Amazing Space Battles"
-supported_version="3.1.*"
+supported_version="3.2.2"
 path="d:/Users/Lars/Documents/Paradox Interactive/Stellaris/mod/ASB"
 remote_file_id="1878473679"
